@@ -1,9 +1,12 @@
 # React Native Stripe Payment
 This is a project created for the technical assessment from Suhag. This simple mobile app can process credit card payments to Stripe.
 
-## Getting Started
+## Build the app
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+Install all dependencies by running:
+```
+npm i
+```
 
 ## Run the app
 
